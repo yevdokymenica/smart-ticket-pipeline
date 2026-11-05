@@ -1,0 +1,103 @@
+
+ticket_text,category
+"Ich warte seit drei Wochen auf die Erstattung meiner Rechnung.",Abrechnung
+"Meine letzte Rechnung wurde doppelt abgebucht.",Abrechnung
+"Ich habe meine Rechnung bezahlt aber die Zahlung wird nicht angezeigt.",Abrechnung
+"Bitte überprüfen Sie den offenen Rechnungsbetrag.",Abrechnung
+"Ich benötige eine Kopie meiner letzten Beitragsabrechnung.",Abrechnung
+"Der erstattete Betrag auf meinem Konto ist falsch.",Abrechnung
+"Ich habe eine falsche Beitragsrechnung erhalten.",Abrechnung
+"Warum wurde mein monatlicher Beitrag erhöht?",Abrechnung
+"Meine Rückerstattung ist noch nicht eingegangen.",Abrechnung
+"Auf meiner Abrechnung wurde ein falscher Betrag berechnet.",Abrechnung
+"Ich bin umgezogen und möchte meine neue Adresse mitteilen.",Stammdaten
+"Bitte ändern Sie meinen Nachnamen in Ihren Unterlagen.",Stammdaten
+"Meine Telefonnummer hat sich geändert.",Stammdaten
+"Ich möchte meine neue Bankverbindung hinterlegen.",Stammdaten
+"Bitte korrigieren Sie mein Geburtsdatum.",Stammdaten
+"Meine Versicherungskarte enthält einen Schreibfehler.",Stammdaten
+"Ich möchte meine E-Mail-Adresse aktualisieren.",Stammdaten
+"Bitte senden Sie meine Versichertenkarte an meine neue Adresse.",Stammdaten
+"Meine persönlichen Daten sind nicht mehr aktuell.",Stammdaten
+"Ich möchte meine Kontaktdaten ändern lassen.",Stammdaten
+"Übernimmt die Krankenkasse die Kosten für eine Physiotherapie?",Leistung
+"Ich benötige eine Genehmigung für eine bestimmte Behandlung.",Leistung
+"Werden die Kosten für eine Zahnreinigung übernommen?",Leistung
+"Ich möchte wissen welche Impfungen erstattet werden.",Leistung
+"Welche Voraussetzungen gelten für eine Kostenübernahme?",Leistung
+"Übernimmt meine Versicherung die Kosten für eine Reha?",Leistung
+"Ich brauche Informationen zu den Leistungen während der Schwangerschaft.",Leistung
+"Werden alternative Heilmethoden von der Versicherung bezahlt?",Leistung
+"Kann ich einen Zuschuss für einen Gesundheitskurs erhalten?",Leistung
+"Welche Unterlagen benötige ich für einen Leistungsantrag?",Leistung
+"Ich bin mit der langen Bearbeitungszeit sehr unzufrieden.",Beschwerde
+"Mein Anliegen wurde trotz mehrfacher Nachfrage nicht bearbeitet.",Beschwerde
+"Der Kundenservice hat mir widersprüchliche Informationen gegeben.",Beschwerde
+"Ich möchte mich über die schlechte Kommunikation beschweren.",Beschwerde
+"Meine Anfrage wurde ohne Erklärung abgelehnt.",Beschwerde
+"Ich habe bereits mehrfach angerufen aber niemand hilft mir.",Beschwerde
+"Die Bearbeitung meines Antrags dauert viel zu lange.",Beschwerde
+"Ich bin mit der Behandlung durch den Mitarbeiter nicht zufrieden.",Beschwerde
+"Warum wurde mein Problem trotz mehrerer Nachrichten nicht gelöst?",Beschwerde
+"Ich möchte eine offizielle Beschwerde einreichen.",Beschwerde
+"Wie kann ich meine Mitgliedschaft online verwalten?",Sonstiges
+"Wo finde ich die Öffnungszeiten Ihrer Geschäftsstelle?",Sonstiges
+"Ich benötige Informationen zur Nutzung Ihrer mobilen App.",Sonstiges
+"Wie kann ich ein neues Kundenkonto erstellen?",Sonstiges
+"An wen kann ich mich bei allgemeinen Fragen wenden?",Sonstiges
+"Welche Dokumente benötige ich für eine Mitgliedschaft?",Sonstiges
+"Kann ich meine Bescheinigung online herunterladen?",Sonstiges
+"Wie erreiche ich den technischen Support?",Sonstiges
+"Wo finde ich weitere Informationen zu Ihrer Krankenkasse?",Sonstiges
+"Ich habe eine allgemeine Frage zu meinem Versicherungsschutz.",Sonstiges
+
+"Auf meiner Monatsrechnung fehlt die bereits geleistete Zahlung.",Abrechnung
+"Die Beitragsabbuchung für April wurde zweimal vorgenommen.",Abrechnung
+"Bitte erklären Sie mir die Positionen auf meiner Beitragsrechnung.",Abrechnung
+"Der Rechnungsbetrag stimmt nicht mit dem vereinbarten Beitrag überein.",Abrechnung
+"Ich habe eine Mahnung erhalten, obwohl ich den Beitrag überwiesen habe.",Abrechnung
+"Wann wird die genehmigte Rechnungserstattung auf mein Konto überwiesen?",Abrechnung
+"Meine Überweisung wurde dem falschen Beitragsmonat zugeordnet.",Abrechnung
+"Auf der Rechnung ist ein falscher Versicherungsbeitrag ausgewiesen.",Abrechnung
+"Ich möchte den aktuellen Stand meiner offenen Beitragszahlung erfahren.",Abrechnung
+"Für dieselbe Leistung wurden mir zwei Rechnungen berechnet.",Abrechnung
+"In meinem Kundenprofil ist meine Straße falsch geschrieben.",Stammdaten
+"Ich habe geheiratet und möchte meinen Familiennamen aktualisieren lassen.",Stammdaten
+"Bitte hinterlegen Sie meine neue Mobilfunknummer.",Stammdaten
+"Meine hinterlegte Bankverbindung ist nicht mehr gültig.",Stammdaten
+"Ich möchte meine private E-Mail-Adresse im Profil ändern.",Stammdaten
+"In meinen Versicherungsunterlagen steht ein falsches Geburtsdatum.",Stammdaten
+"Bitte korrigieren Sie die Schreibweise meines Vornamens.",Stammdaten
+"Ich bin in eine andere Wohnung gezogen und möchte die Anschrift aktualisieren.",Stammdaten
+"Meine Kontaktdaten im Onlinekonto sind veraltet.",Stammdaten
+"Bitte ändern Sie meine Postanschrift ab dem nächsten Monat.",Stammdaten
+"Welche Kosten übernimmt die Versicherung bei einer ambulanten Psychotherapie?",Leistung
+"Ich möchte wissen, ob eine professionelle Zahnreinigung bezuschusst wird.",Leistung
+"Benötige ich vor einer stationären Reha eine schriftliche Genehmigung?",Leistung
+"Welche Impfkosten werden im Rahmen meines Tarifs erstattet?",Leistung
+"Übernimmt die Krankenkasse die Kosten für eine Hörhilfe?",Leistung
+"Gibt es einen Zuschuss für eine Hebammenbetreuung?",Leistung
+"Ich möchte eine Kostenübernahme für eine physiotherapeutische Behandlung beantragen.",Leistung
+"Welche Voraussetzungen gelten für die Erstattung einer Reiseimpfung?",Leistung
+"Ist eine bestimmte Vorsorgeuntersuchung in meinem Versicherungsschutz enthalten?",Leistung
+"Welche Leistungen stehen mir nach einer Operation zur Verfügung?",Leistung
+"Trotz meiner drei Anrufe hat sich niemand um mein Anliegen gekümmert.",Beschwerde
+"Ich möchte mich über das unfreundliche Verhalten am Servicetelefon beschweren.",Beschwerde
+"Die zugesagte Rückmeldung ist seit zwei Wochen ausgeblieben.",Beschwerde
+"Mein Antrag wurde ohne nachvollziehbare Begründung abgelehnt und ich bin verärgert.",Beschwerde
+"Die Mitarbeiter haben mir bei jedem Kontakt unterschiedliche Auskünfte gegeben.",Beschwerde
+"Ich kritisiere die wiederholte Verzögerung bei der Bearbeitung meiner Anfrage.",Beschwerde
+"Meine schriftliche Beschwerde wurde bisher nicht beantwortet.",Beschwerde
+"Der Umgang mit meinem Anliegen war aus meiner Sicht nicht akzeptabel.",Beschwerde
+"Ich musste dieselben Unterlagen mehrfach einreichen, weil Ihr Service sie verloren hat.",Beschwerde
+"Ich bin enttäuscht über die mangelnde Unterstützung durch den Kundenservice.",Beschwerde
+"Wo kann ich die aktuelle Satzung Ihrer Krankenkasse einsehen?",Sonstiges
+"Gibt es eine mobile Anwendung für Android-Geräte?",Sonstiges
+"Wie lauten die regulären Öffnungszeiten Ihrer Beratungsstellen?",Sonstiges
+"Wo finde ich die Telefonnummer Ihrer allgemeinen Servicestelle?",Sonstiges
+"Kann ich mich online über das Mitgliederportal anmelden?",Sonstiges
+"Ich möchte wissen, an welchen Standorten Sie persönliche Beratung anbieten.",Sonstiges
+"Wo kann ich Informationsbroschüren zu Ihrer Krankenkasse herunterladen?",Sonstiges
+"Gibt es eine Anleitung zur Registrierung im Onlineportal?",Sonstiges
+"Wie kann ich allgemeine Informationen zu Ihrer Organisation erhalten?",Sonstiges
+"Bieten Sie einen Newsletter mit Neuigkeiten für Mitglieder an?",Sonstiges

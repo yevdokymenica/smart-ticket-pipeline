@@ -1,1 +1,22 @@
-claim_processor.py
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+
+# Generated output files
+processed_tickets.csv
+processed_tickets.xlsx
+hybrid_processed_tickets.csv
+hybrid_processed_tickets.xlsx
+
+# Local vector database
+chroma_db/
